@@ -18,7 +18,7 @@ public class Projetojava {
     int x = 2 ;
     int y = 5;
     
-    System.out.println("");
+    System.out.println("Primeiro Passo");
   }
   
 }
